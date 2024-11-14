@@ -13,11 +13,65 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** eage
 - ⚡ **Fun Fact**: I believe that problem-solving is an art, and coding is the paintbrush!
 
 ## 🛠️ Technologies & Tools
-- **Languages**: C++, JavaScript, Python, Java
-- **Web Development**: HTML, CSS, React.js, Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Frameworks**: SCSS, Tailwind CSS
-- **Tools**: Git, GitHub, Visual Studio Code
+
+### Languages
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" height="40" width="140">
+</span>
+
+### Web Development
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white" height="40" width="140">
+</span>
+
+### Databases
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height="40" width="140">
+</span>
+
+### Frameworks & Libraries
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" height="40" width="140">
+</span>
+
+### Tools
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" height="40" width="140">
+</span>
+<span style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" height="40" width="140">
+</span>
+
 
 
 ## 📫 Connect with Me
@@ -31,33 +85,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** eage
 
 
 
-## 🛠️ Technologies & Tools
-
-### Languages
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### Frameworks & Libraries
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 <!--
 **DevRajput01/DevRajput01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
