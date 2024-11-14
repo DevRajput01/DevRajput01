@@ -8,8 +8,8 @@
 ## 🚀 About Me
 - 🎓 **Current Status**: Pursuing a degree in Computer Science.
 - 🔭 **Working On**: Web development projects and data structure algorithms.
-- 🌱 **Currently Learning**: Advanced JavaScript, React.js, and Machine Learning.
-- 💡 **Interests**: Full-stack development, software design, and data analytics.
+- 🌱 **Currently Learning**: Advanced JavaScript, React.js, and Software Development.
+- 💡 **Interests**: Full-stack development, software design.
 - 🧑‍🤝‍🧑 **Looking to Collaborate On**: Open-source projects and coding challenges.
 - 💬 **Ask Me About**: Web development, Java/Python, and problem-solving techniques.
 - ⚡ **Fun Fact**: Coding feels like creating art, one line at a time!
