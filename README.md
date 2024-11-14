@@ -1,4 +1,78 @@
 
+# 👋 Hello, I'm **Devendra Singh**!
+
+✨ Welcome to my GitHub profile! I'm an enthusiastic **Computer Science student** with a passion for developing innovative tech solutions and honing my skills across various technologies.
+
+---
+
+## 🚀 About Me
+- 🎓 **Current Status**: Pursuing a degree in Computer Science.
+- 🔭 **Working On**: Web development projects and data structure algorithms.
+- 🌱 **Currently Learning**: Advanced JavaScript, React.js, and Machine Learning.
+- 💡 **Interests**: Full-stack development, software design, and data analytics.
+- 🧑‍🤝‍🧑 **Looking to Collaborate On**: Open-source projects and coding challenges.
+- 💬 **Ask Me About**: Web development, Java/Python, and problem-solving techniques.
+- ⚡ **Fun Fact**: Coding feels like creating art, one line at a time!
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🚀 **Programming Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" height="40">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" height="40">
+</p>
+
+### 🌐 **Web Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" height="40">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white" height="40">
+</p>
+
+### 🗄️ **Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height="40">
+</p>
+
+### 📚 **Frameworks & Libraries**
+<p align="center">
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" height="40">
+</p>
+
+### ⚙️ **Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" height="40">
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/devtech01/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" height="40"></a>
+  <a href="mailto:devtech0108@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="40"></a>
+  <a href="https://www.youtube.com/@Codzzburner"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white" height="40"></a>
+  <a href="https://www.facebook.com/profile.php?id=100013174096680"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" height="40"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="40"></a>
+  <a href="https://leetcode.com/devrajput0108"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="40"></a>
+</p>
+
+---
+
+### 🌟 **Thank you for visiting my profile!**
+Let's code, collaborate, and create something extraordinary! 🚀
+
+
+<!--
 # 👋 Hello, I'm Devendra Singh!
 
 Welcome to my GitHub profile! I'm a passionate **Computer Science student** eager to explore, learn, and create amazing tech solutions. I enjoy working with a wide range of technologies, and I'm always ready for a new challenge.
