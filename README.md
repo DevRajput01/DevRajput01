@@ -99,9 +99,9 @@ const devendra = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevRajput01&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRajput01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
@@ -139,10 +139,6 @@ const devendra = {
 ---
 
 <div align="center">
-
-### 💬 *"First, solve the problem. Then, write the code."*
-
-**— John Johnson**
 
 ⭐ **If you find my work useful, consider giving a star to my repos!**
 
