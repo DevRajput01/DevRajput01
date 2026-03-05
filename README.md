@@ -98,12 +98,9 @@ const devendra = {
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devrajput01&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRajput01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-
----
 
 ## 📈 Contribution Graph
 
