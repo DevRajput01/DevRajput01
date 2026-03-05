@@ -90,12 +90,12 @@ const devendra = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devrajput0108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=devrajput0108&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devrajput01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=devrajput01&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajput0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajput01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 ---
 
