@@ -87,15 +87,16 @@ const devendra = {
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devrajput0108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrajput0108&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=devrajput0108&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajput0108&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -128,15 +129,20 @@ const devendra = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtech01/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devtech0108@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Codzzburner)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devrajput0108)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013174096680)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
+
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/devtech01/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" height="30"></a>
+  <a href="mailto:devtech0108@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" height="30"></a>
+  <a href="https://www.youtube.com/@Codzzburner"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white" height="30"></a>
+  <a href="https://www.facebook.com/profile.php?id=100013174096680"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" height="30"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" height="30"></a>
+  <a href="https://leetcode.com/devrajput0108"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="30"></a>
+</p>
 
 </div>
-
 ---
 
 <div align="center">
