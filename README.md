@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43D9AD&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems;Crafting+RESTful+%26+GraphQL+APIs;Node.js+%7C+Express+%7C+MongoDB;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=devrajput0108&label=Profile+Views&color=43D9AD&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=DevRajput01&label=Profile+Views&color=43D9AD&style=flat" alt="profile views" />
 
 </div>
 
@@ -65,7 +65,7 @@ const devendra = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🧰 Languages & Tools
+### 🧰 Languages
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -73,7 +73,7 @@ const devendra = {
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & Infrastructure
+### 🚀 DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -88,24 +88,28 @@ const devendra = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devrajput01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=devrajput01&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevRajput01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=DevRajput01&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajput01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRajput01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevRajput01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrajput01&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRajput01&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -124,20 +128,15 @@ const devendra = {
 
 <div align="center">
 
-
-
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/devtech01/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" height="30"></a>
-  <a href="mailto:devtech0108@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" height="30"></a>
-  <a href="https://www.youtube.com/@Codzzburner"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white" height="30"></a>
-  <a href="https://www.facebook.com/profile.php?id=100013174096680"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" height="30"></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" height="30"></a>
-  <a href="https://leetcode.com/devrajput0108"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="30"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtech01/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devtech0108@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Codzzburner)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DevRajput01)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013174096680)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 </div>
+
 ---
 
 <div align="center">
