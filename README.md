@@ -30,7 +30,6 @@ const devendra = {
   currentFocus: ["Scalable REST APIs", "Microservices", "System Design"],
   learning:    ["TypeScript", "Docker", "Redis", "Message Queues"],
   interests:   ["Backend Architecture", "Open Source", "DSA"],
-  funFact:     "I debug in production... and somehow survive. 🙂",
   contact:     "devtech0108@gmail.com"
 };
 ```
